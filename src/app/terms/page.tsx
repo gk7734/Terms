@@ -1,11 +1,11 @@
 export default function Terms() {
     return (
         <div
-            className={`justify-center grid w-auto font-pretendard text-start bg-gradient-to-r from-white to-orange-300 pl-[14px] pr-[14px]`}>
-            <h1 className={`text-[33px] font-bold text-black pt-10 pb-4`}>Boom 이용자 동의서</h1>
+            className={`justify-center grid w-auto font-pretendard text-start bg-gradient-to-r bg-black pl-[14px] pr-[14px]`}>
+            <h1 className={`text-[33px] font-bold text-white pt-10 pb-4`}>Boom 이용자 동의서</h1>
             <br/>
-            <h2 className={`text-black font-bold text-[22px] mb-[10px]`}>1. 특별 공지</h2>
-            <h2 className={`text-gray-600 font-normal text-[18px] pb-7`}>1.1 본 Boom 이용자 동의서(이하 "본 동의서")는 2024년 3월 11일에
+            <h2 className={`text-white font-bold text-[22px] mb-[10px]`}>1. 특별 공지</h2>
+            <h2 className={`text-white font-normal text-[18px] pb-7`}>1.1 본 Boom 이용자 동의서(이하 "본 동의서")는 2024년 3월 11일에
                 수정된
                 것으로, Boom 앱, 저희가 개발한 <br/>
                 음성 통신 애플리케이션 및 소셜 네트워크인 "Boom"를 포함한 저희의 서비스(이하 "서비스") 이용을 규정합니다. <br/>
@@ -24,8 +24,8 @@ export default function Terms() {
                 수행되는 모든 행위와 활동은 여러분의 행위와 활동으로 간주되며, 이에 대한 책임은 오로지 여러분에게 있습니다.<br/>
             </h2>
             <br/>
-            <h2 className={`text-[22px] font-bold text-black mb-[10px]`}>2. 서비스 콘텐츠</h2>
-            <h2 className={`text-gray-600 font-normal text-[18px] pb-7`}>2.1 우리는 우리의 서비스의 내용을 우리의 재량에 따라 수시로 변경할 수 있습니다.
+            <h2 className={`text-[22px] font-bold text-white mb-[10px]`}>2. 서비스 콘텐츠</h2>
+            <h2 className={`text-white font-normal text-[18px] pb-7`}>2.1 우리는 우리의 서비스의 내용을 우리의 재량에 따라 수시로 변경할 수 있습니다.
                 이에
                 대한 사전 통지 여부는 <br/>
                 우리의 재량에 따라 결정됩니다. <br/><br/>
@@ -46,15 +46,15 @@ export default function Terms() {
                 및 거래나 성과에 따른 묵시적인 보증을 포함한 어떠한 묵시적인 보증도 여기에 명시적으로 부인합니다.<br/>
             </h2>
             <br/>
-            <h2 className={`text-[22px] font-bold text-black mb-[10px]`}>3. 개인정보</h2>
-            <h2 className={`text-gray-600 font-normal text-[18px] pb-7`}>3.1 여러분은 저희가 여러분이 제공하거나 저희의 서비스를 이용할 때 생성되는
+            <h2 className={`text-[22px] font-bold text-white mb-[10px]`}>3. 개인정보</h2>
+            <h2 className={`text-white font-normal text-[18px] pb-7`}>3.1 여러분은 저희가 여러분이 제공하거나 저희의 서비스를 이용할 때 생성되는
                 데이터를
                 처리하는 방법을 설명하 <br/>
                 는 개인정보 처리방침을 읽고 이해했다고 인정합니다. 궁금한 점이 있으시면dev@entryer.com으로 문의해주십시오.
             </h2>
             <br/>
-            <h2 className={`text-[22px] font-bold text-black mb-[10px]`}>4. 이용 약관</h2>
-            <h2 className={`text-gray-600 font-normal text-[18px] pb-7`}>4.1 여러분은 여러분이 Boom에 제공하는 정보의 정확성에 대한 책임을 집니다.
+            <h2 className={`text-[22px] font-bold text-white mb-[10px]`}>4. 이용 약관</h2>
+            <h2 className={`text-white font-normal text-[18px] pb-7`}>4.1 여러분은 여러분이 Boom에 제공하는 정보의 정확성에 대한 책임을 집니다.
                 Boom의
                 요청에 따라 제공한 정 <br/>
                 보의 정확성을 확인해야 합니다. <br/><br/>
@@ -109,8 +109,8 @@ export default function Terms() {
                 면책시켜야 합니다.<br/>
             </h2>
             <br/>
-            <h2 className={`text-[22px] font-bold text-black mb-[10px]`}>5. 지적 재산권</h2>
-            <h2 className={`text-gray-600 font-normal text-[18px] pb-7`}>5.1 Boom이 제공하는 서비스 내의 모든 텍스트, 데이터, 이미지, 그래픽,
+            <h2 className={`text-[22px] font-bold text-white mb-[10px]`}>5. 지적 재산권</h2>
+            <h2 className={`text-white font-normal text-[18px] pb-7`}>5.1 Boom이 제공하는 서비스 내의 모든 텍스트, 데이터, 이미지, 그래픽,
                 오디오
                 및/또는 비디오 정보 및 기타 자료는 <br/>
                 Boom의 소유물이며, 저작권, 상표 및/또는 기타 재산권 법에 의해 보호됩니다. 본 약관에 따라 Boom이 여 <br/>
@@ -124,15 +124,15 @@ export default function Terms() {
                 편입시키는 권리를 갖습니다.<br/>
             </h2>
             <br/>
-            <h2 className={`text-[22px] font-bold text-black mb-[10px]`}>6. 서비스 종료</h2>
-            <h2 className={`text-gray-600 font-normal text-[18px] pb-7`}>6.1 여러분은 Boom 서비스와 본 약관을 여러분의 Boom 계정을 철회함으로써
+            <h2 className={`text-[22px] font-bold text-white mb-[10px]`}>6. 서비스 종료</h2>
+            <h2 className={`text-white font-normal text-[18px] pb-7`}>6.1 여러분은 Boom 서비스와 본 약관을 여러분의 Boom 계정을 철회함으로써
                 종료할 수
                 있습니다. 여러분은 다 <br/>
                 음 주소로 연락할 수 있습니다: dev@entryer.com
             </h2>
             <br/>
-            <h2 className={`text-[22px] font-bold text-black mb-[10px]`}>8. 면책 조항</h2>
-            <h2 className={`text-gray-600 font-normal text-[18px] pb-7`}>8.1 Boom 서비스를 사용함에 따라 발생하는 모든 위험에 대해 여러분은 완전히
+            <h2 className={`text-[22px] font-bold text-white mb-[10px]`}>8. 면책 조항</h2>
+            <h2 className={`text-white font-normal text-[18px] pb-7`}>8.1 Boom 서비스를 사용함에 따라 발생하는 모든 위험에 대해 여러분은 완전히
                 책임을
                 집니다. Boom 서비스의 <br/>
                 사용 또는 의존은 여러분의 자체적인 책임 하에 이루어집니다. <br/><br/>
@@ -153,13 +153,13 @@ export default function Terms() {
                 책임도지지 않습니다. 그러나 최대한 가능한 한 Boom은 여러분에게 발생하는 손실과 영향을 합리적으로 최소화하기 위해 노력할 것입니다.<br/>
             </h2>
             <br/>
-            <h2 className={`text-[22px] font-bold text-black mb-[10px]`}>9. 법적 관할권</h2>
-            <h2 className={`text-gray-600 font-normal text-[18px] pb-7`}>9.1 본 계약은 대한민국 법에 따라 해석되고 규율됩니다. 법적 문제 또는 이 계약의
+            <h2 className={`text-[22px] font-bold text-white mb-[10px]`}>9. 법적 관할권</h2>
+            <h2 className={`text-white font-normal text-[18px] pb-7`}>9.1 본 계약은 대한민국 법에 따라 해석되고 규율됩니다. 법적 문제 또는 이 계약의
                 존재, 유효성 또는 종료와 관련 <br/>
                 된 모든 분쟁은 Boom 등록 주소의 관할 인민법원에 회부되어 최종적으로 해결될 것입니다.</h2>
             <br/>
-            <h2 className={`text-[22px] font-bold text-black mb-[10px]`}>10. 기타 조항</h2>
-            <h2 className={`text-gray-600 font-normal text-[18px] pb-7`}>10.1 본 계약은 양 당사자 간 합의된 사항 및 기타 관련 사항의 전부를
+            <h2 className={`text-[22px] font-bold text-white mb-[10px]`}>10. 기타 조항</h2>
+            <h2 className={`text-white font-normal text-[18px] pb-7`}>10.1 본 계약은 양 당사자 간 합의된 사항 및 기타 관련 사항의 전부를
                 구성합니다. 본 계약에 명시된 사항 외에는 본 계약 당사자에게 다른 권리가 인정되지 않습니다. <br/><br/>
 
                 10.2 본 계약의 어떤 조항이라도 관할 권한을 가진 당국에 의해 전체 또는 부분적으로 어떤 이유로든 무효화되거나 강제되는 경우에도, 본 계약의 남은 조항은 유효하고 구속력을
@@ -168,9 +168,9 @@ export default function Terms() {
                 10.3 본 계약 내의 제목은 편의를 위해 설정되었으며, 본 계약의 해석에 있어서는 무시됩니다. <br/><br/>
 
             </h2>
-            <span className={`text-[20px] font-bold text-black`}>Hojin Yu</span> <br/>
+            <span className={`text-[20px] font-bold text-white`}>Hojin Yu</span> <br/>
 
-            <span className={`text-[20px] font-bold text-black pb-10`}>12-9, Janggunbong 3-gil, Gwanak-gu, Seoul, Republic of Korea</span>
+            <span className={`text-[20px] font-bold text-white pb-10`}>12-9, Janggunbong 3-gil, Gwanak-gu, Seoul, Republic of Korea</span>
             <br/>
         </div>
     )
