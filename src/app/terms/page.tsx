@@ -1,6 +1,6 @@
 export default function Terms() {
     return (
-        <div className={`justify-center grid w-auto font-pretendard text-start bg-gradient-to-r from-amber-200 to-yellow-400`}>
+        <div className={`justify-center grid w-auto font-pretendard text-start bg-gradient-to-r from-white to-orange-300`}>
             <h1 className={`text-[25px] font-bold text-black`}>Boom 이용자 동의서</h1>
             <br/>
             <h2 className={`text-black font-bold text-[20px] mb-[5px]`}>1. 특별 공지</h2>

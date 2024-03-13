@@ -1,6 +1,6 @@
 export default function Home() {
     return (
-        <div className={`justify-center grid w-auto font-pretendard text-start bg-gradient-to-r from-amber-200 to-yellow-400`}>
+        <div className={`justify-center grid w-auto font-pretendard text-start bg-gradient-to-r from-white to-orange-300`}>
             <h1 className={`text-[25px] font-bold text-black`}>Boom 개인 정보 보호 정책</h1>
             <br/>
             <h2 className={`text-gray-600 font-normal text-[18px]`}>2024년 3월 11일자로 발효</h2>
