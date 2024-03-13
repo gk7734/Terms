@@ -2,9 +2,9 @@ export default function Home() {
     return (
         <div
             className={`justify-center grid w-auto font-pretendard text-start bg-gradient-to-r bg-black pl-[14px] pr-[14px]`}>
-            <h1 className={`text-[34px] font-bold text-white pt-8`}>Boom 개인 정보 보호 정책</h1>
+            <h1 className={`text-[34px] font-bold text-white pt-10`}>Boom 개인 정보 보호 정책</h1>
             <br/>
-            <h2 className={`font-semibold text-[20px] pb-7`}>2024년 3월 11일자로 발효</h2>
+            <h2 className={`text-white font-semibold text-[20px] pb-9`}>2024년 3월 11일자로 발효</h2>
             <br/>
             <h2 className={`text-white font-normal text-[18px]`}>지금 Boom에 오신 것을 환영합니다!</h2>
             <br/>
@@ -13,7 +13,7 @@ export default function Home() {
             </h2>
             <br/>
             <h2 className={`text-white font-normal`}><span
-                className={`text-[20px]`}>이 개인 정보 보호 정책은 다음을 설명합니다.</span>
+                className={`text-[20px]`}>이 개인 정보 보호 정책은 다음을 설명합니다.</span><br/>
                 <br/>
                 - 우리가 당신에 대한 개인 정보를 수집하는 방법과 우리가 그렇게 하는 이유
                 - 귀하의 개인 정보를 사용하는 방법 및 <br/>
@@ -41,7 +41,7 @@ export default function Home() {
                 컨트롤러 이름: Hojin Yu <br/><br/>
 
             </h2>
-            <h2 className={`font-bold text-[19px] pb-4`}> 12-9, Janggunbong 3-gil, Gwanak-gu, Seoul, Republic of Korea <br/>
+            <h2 className={`text-white font-bold text-[19px] pb-4`}> 12-9, Janggunbong 3-gil, Gwanak-gu, Seoul, Republic of Korea <br/>
 
                 이메일: <a href={`mailto:dev@entryer.com`}> dev@entryer.com </a>
             </h2> <br/>
@@ -383,7 +383,7 @@ export default function Home() {
             </h2>
             <br/>
             <h2 className={`text-white font-bold text-[20px] mb-[5px]`}>푸시알림</h2>
-            <h2 className={`pb-4`}>모바일 애플리케이션을 통해 푸시 알림을 보낼 수 있습니다. 모바일 장치의 설정을 변경하여 언제든지 이러한 유형의 <br/>
+            <h2 className={`text-white pb-4`}>모바일 애플리케이션을 통해 푸시 알림을 보낼 수 있습니다. 모바일 장치의 설정을 변경하여 언제든지 이러한 유형의 <br/>
                 통신 수신을 거부할 수 있습니다. <br/>
 
                 <br/>
@@ -414,7 +414,7 @@ export default function Home() {
             </h2>
             <br/>
             <h2 className={`text-white font-bold text-[20px] mb-[5px] `}>계정 정보</h2>
-            <h2 className={`pb-20`}>언제든지 계정의 정보를 검토하거나 변경하거나 계정을 해지하려는 경우 다음을 수행할 수 있습니다. <br/>
+            <h2 className={`text-white pb-20`}>언제든지 계정의 정보를 검토하거나 변경하거나 계정을 해지하려는 경우 다음을 수행할 수 있습니다. <br/>
 
                 - 계정 설정에 로그인하고 사용자 계정을 업데이트합니다. <br/>
 
