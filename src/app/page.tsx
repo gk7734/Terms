@@ -41,8 +41,7 @@ export default function Home() {
                 컨트롤러 이름: Hojin Yu <br/><br/>
 
             </h2>
-            <h2 className={`font-bold text-[19px] pb-4`}> 주소: 20 에메랄드 로드, 싱가포르 229302
-                Attn: 프라이버시 <br/>
+            <h2 className={`font-bold text-[19px] pb-4`}> 12-9, Janggunbong 3-gil, Gwanak-gu, Seoul, Republic of Korea <br/>
 
                 이메일: <a href={`mailto:dev@entryer.com`}> dev@entryer.com </a>
             </h2> <br/>
